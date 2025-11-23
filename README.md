@@ -34,4 +34,4 @@ To replicate the main neuro-symbolic results:
 
 ## Data
 
-The raw video files for LingoQA and RobotCar are not included. However, `dataset/` contains the necessary data split sufficient to run our experiments and reproduce the results.
+The raw video files for LingoQA and RobotCar are not included due to extra large file size. The folder `dataset/` contains the necessary data split sufficient to run our experiments and reproduce the results.
